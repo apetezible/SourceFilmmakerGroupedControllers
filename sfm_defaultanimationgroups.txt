@@ -1055,7 +1055,7 @@ groupFile  // Now supports hierarchies
 		"control"     "bip_glassesArm_L1"
 		"control"	  "prp_hat"
 	}
-	"Breasts"
+	"Tweaks"
 	{
 		"groupColor"	"242 124 110 255"
 
