@@ -1057,7 +1057,7 @@ groupFile  // Now supports hierarchies
 	}
 	"Tweaks"
 	{
-		"groupColor"	"242 124 110 255"
+		"groupColor"	"214 139 97 255"
 
 		"control"     "bip_bicep_twist_01_L"
 		"control"     "bip_bicep_twist_02_L"
