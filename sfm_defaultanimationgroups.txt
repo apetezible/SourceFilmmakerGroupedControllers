@@ -1049,10 +1049,12 @@ groupFile  // Now supports hierarchies
 	"Accessories"
 	{
 		"groupColor"	"113 101 255 255"
-
+		
 		"control"     "bip_glasses"
 		"control"     "bip_glassesArm_L"
 		"control"     "bip_glassesArm_L1"
+		"control"	  "bip_hat"
+		
 	}
 	"Breasts"
 	{
