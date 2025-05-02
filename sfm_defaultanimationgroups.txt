@@ -1054,7 +1054,15 @@ groupFile  // Now supports hierarchies
 		"control"     "bip_glassesArm_L"
 		"control"     "bip_glassesArm_L1"
 		"control"	  "prp_hat"
-		
+	}
+	"Breasts"
+	{
+		"groupColor"	"242 124 110 255"
+
+		"control"     "bip_bicep_twist_01_L"
+		"control"     "bip_bicep_twist_02_L"
+		"control"     "bip_bicep_twist_01_R"
+		"control"     "bip_bicep_twist_02_R"
 	}
 	"Breasts"
 	{
@@ -1121,6 +1129,14 @@ groupFile  // Now supports hierarchies
 				"control"     "prp_skirt_back2_R"
 				"control"     "prp_skirt_back3_R"
 				"control"     "prp_skirt_back4_R"
+			}
+		}
+		"Shirt"
+		{
+			"Sleeves"
+			{
+				"control"	"prp_sleeve_L"
+				"control"	"prp_sleeve_R"
 			}
 		}
 	}
